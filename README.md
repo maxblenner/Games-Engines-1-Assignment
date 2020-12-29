@@ -10,7 +10,7 @@ I am most proud of achiving the different colours based on terrain height, to si
 
 The video included below is a demonstration of the game in action. It starts with me editing options on the map generator script to demonstrate the change in the terrain.
 I then start up the game and move around, cycling through different seeds (generations of terrain)
-Video of game running: [!The Demo](https://www.youtube.com/watch?v=YhPOgrO7DsQ&feature=youtu.be&ab_channel=Spookyman)
+Video of game running: [The Demo](https://www.youtube.com/watch?v=YhPOgrO7DsQ&feature=youtu.be&ab_channel=Spookyman)
 
 To replicate what is seen in the video:
 - Open the map generator object to play with the perlin noise generation settings
